@@ -1,0 +1,7 @@
+body{
+  width: 8.5in; height: 11in;
+  border: none;
+}
+.starting-char {
+  background-image: none; color: black;
+}
